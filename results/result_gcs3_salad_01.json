@@ -1,0 +1,23 @@
+[
+    {
+        "file": "gcs3_salad_01.wav",
+        "segment_index": 1,
+        "start_time_s": 0.194,
+        "end_time_s": 2.206,
+        "duration_s": 2.012,
+        "gcs_level_prediction": 2,
+        "combined_score": 0.3097557381579751,
+        "features": {
+            "avg_logprob": -0.5132136583328247,
+            "lexical_validity": 0.25,
+            "perplexity": 18011.490234375
+        },
+        "normalized_features": {
+            "norm_confidence": 0.7825191271932502,
+            "norm_lexical": 0.25,
+            "norm_inv_perplexity": 0.0
+        },
+        "transcription": "Fenster denken Wasser abfel.",
+        "transcription_time_s": 0.459839149999425
+    }
+]

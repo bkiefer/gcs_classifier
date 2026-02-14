@@ -1,0 +1,74 @@
+[
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 1,
+        "start_time_s": 0.45,
+        "end_time_s": 2.046,
+        "duration_s": 1.5959999999999999,
+        "lexical_validity": 0.0,
+        "text": "Pistach, Pistach, Pistach, Pistach",
+        "avg_logprob": -1.2930430306328669,
+        "no_speech_prob": 0.3827438950538635,
+        "transcription_time_s": 1.1486796839999442
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 2,
+        "start_time_s": 2.978,
+        "end_time_s": 4.83,
+        "duration_s": 1.8519999999999999,
+        "lexical_validity": 1.0,
+        "text": "Ich glaube, es ist so gut, dass es so ist.",
+        "avg_logprob": -1.4977297559380531,
+        "no_speech_prob": 0.3597494959831238,
+        "transcription_time_s": 1.0905678849994729
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 3,
+        "start_time_s": 5.666,
+        "end_time_s": 6.654,
+        "duration_s": 0.9879999999999995,
+        "lexical_validity": 1.0,
+        "text": "Schau!",
+        "avg_logprob": -1.1191363135973613,
+        "no_speech_prob": 0.5964377522468567,
+        "transcription_time_s": 1.0216871769989666
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 4,
+        "start_time_s": 6.946,
+        "end_time_s": 8.958,
+        "duration_s": 2.0120000000000005,
+        "lexical_validity": 0.8,
+        "text": "Was ist in der Kunde?",
+        "avg_logprob": -1.2648900182623612,
+        "no_speech_prob": 0.40278491377830505,
+        "transcription_time_s": 1.2486113790000672
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 5,
+        "start_time_s": 11.97,
+        "end_time_s": 12.894,
+        "duration_s": 0.9239999999999995,
+        "lexical_validity": 1.0,
+        "text": "Das ist nicht so.",
+        "avg_logprob": -1.5038938373327255,
+        "no_speech_prob": 0.3867414891719818,
+        "transcription_time_s": 1.1062455179999233
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 6,
+        "start_time_s": 13.41,
+        "end_time_s": 14.27,
+        "duration_s": 0.8599999999999994,
+        "lexical_validity": 0.0,
+        "text": "Let's...",
+        "avg_logprob": -0.9885808825492859,
+        "no_speech_prob": 0.3029082119464874,
+        "transcription_time_s": 0.3270566190003592
+    }
+]

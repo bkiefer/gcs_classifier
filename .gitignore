@@ -1,0 +1,20 @@
+# Ignore full dataset
+data/**
+
+# Keep folder structure placeholders
+!data/**/README.txt
+
+# Ignore audio anywhere
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.aac
+
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/

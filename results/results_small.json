@@ -1,0 +1,68 @@
+[
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 1,
+        "start_time_s": 0.45,
+        "end_time_s": 2.046,
+        "duration_s": 1.5959999999999999,
+        "text": "Das ist der Pest des Türen.",
+        "avg_logprob": -1.4827203017014723,
+        "no_speech_prob": 0.3499039113521576,
+        "transcription_time_s": 4.289439882000806
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 2,
+        "start_time_s": 2.978,
+        "end_time_s": 4.83,
+        "duration_s": 1.8519999999999999,
+        "text": "Hör, hör, hör, hör, hör, hör, hör.",
+        "avg_logprob": -0.8506944676240286,
+        "no_speech_prob": 0.6036301851272583,
+        "transcription_time_s": 0.9401211599997623
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 3,
+        "start_time_s": 5.666,
+        "end_time_s": 6.654,
+        "duration_s": 0.9879999999999995,
+        "text": "SWR 2020",
+        "avg_logprob": -0.9069371223449707,
+        "no_speech_prob": 0.7312467694282532,
+        "transcription_time_s": 0.8406374559999676
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 4,
+        "start_time_s": 6.946,
+        "end_time_s": 8.958,
+        "duration_s": 2.0120000000000005,
+        "text": "Ich habe mich nicht mehr geblasen, ich bin nicht mehr geblasen.",
+        "avg_logprob": -1.3162244829264553,
+        "no_speech_prob": 0.5611777901649475,
+        "transcription_time_s": 3.0716026430000056
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 5,
+        "start_time_s": 11.97,
+        "end_time_s": 12.894,
+        "duration_s": 0.9239999999999995,
+        "text": "",
+        "avg_logprob": -99.0,
+        "no_speech_prob": 1.0,
+        "transcription_time_s": 0.8630860269986442
+    },
+    {
+        "file": "TestSample.mp3",
+        "segment_index": 6,
+        "start_time_s": 13.41,
+        "end_time_s": 14.27,
+        "duration_s": 0.8599999999999994,
+        "text": "Let's...",
+        "avg_logprob": -1.1063644289970398,
+        "no_speech_prob": 0.26345470547676086,
+        "transcription_time_s": 2.001292076000027
+    }
+]
